@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal Observator, or, Historical memoirs of the life and actions of Roger the Fidler, alias, the Observator</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49356</idno>
+            <idno type="STC">Wing L3356</idno>
+            <idno type="STC">ESTC R5420</idno>
+            <idno type="EEBO-CITATION">12986382</idno>
+            <idno type="OCLC">ocm 12986382</idno>
+            <idno type="VID">96196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal Observator, or, Historical memoirs of the life and actions of Roger the Fidler, alias, the Observator</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Hammond,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Roger the Fidler, alias the Observator", i.e. Sir Roger L'Estrange.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96196:1" rendition="simple:additions"/>
+            <head>THE <hi>Loyal Obſervator:</hi> OR, Hiſtorical MEMOIRS of the Life and Actions of Roger the Fidler; Alias, <hi>The Obſervator.</hi>
+            </head>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>HEre's a clutter with <hi>Obſervators</hi> three or four times a week! And an everlaſting Din about <hi>Whiggs</hi> and <hi>Trimmers,</hi> and the Devil and all of Bus'neſs! Prethee, <hi>Nobbs,</hi> let thee and I ſet up an <hi>Obſervator;</hi> 'Tis a pretty Trade, and next to that of an <hi>Informer,</hi> one of the moſt <hi>Thriving</hi> in theſe dull times. There's an <hi>Old Fellow</hi> in <hi>Holborn</hi> gets (they ſay) Forty Shillings a Paper certain Pen<g ref="char:EOLhyphen"/>ſion, beſides <hi>By Jobbs</hi> of two or three Hundred <hi>Guineys</hi> at a lump: And yet <hi>frets,</hi> and <hi>foams,</hi> and <hi>raves,</hi> becauſe he's no better Rewarded.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>When all the ſwarming <hi>Intelligencers</hi> were
+<pb n="2" facs="tcp:96196:2"/>ſilenc'd, and <hi>Thompſon</hi> muzzl'd, and <hi>Care</hi> run a<g ref="char:EOLhyphen"/>way, and <hi>Curtis</hi> and <hi>Janeway</hi> (Poor Snails!) had pull'd in their Horns, and were crept into their Original <hi>Shells,</hi> I was in hopes the Nation ſhould no more have been peſter'd with this <hi>Make-bate-Trumpery;</hi> But ſince the <hi>Incorigible Squire</hi> ſcribbles on as eagerly as ever, I ſee no reaſon why we may not put in for a <hi>Snack;</hi> For <hi>a Pamphlet's a Pamph<g ref="char:EOLhyphen"/>let,</hi> whether it be writ by <hi>Roger the Fidler,</hi> or <hi>Ralph the Corn-Cutter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>But I bar all diſcourſe of <hi>Religion</hi> or <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> and <hi>Reflections</hi> on particular Perſons.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>Prethee haſt thou got a new Invention to make <hi>Butter</hi> without <hi>Cream?</hi> Or the Apotheca<g ref="char:EOLhyphen"/>ries Trick, to give us <hi>Oxycrocium,</hi> and not a dram of <hi>Saffron</hi> in't? Alas man! 'tis the very Eſſence of an <hi>Obſervator</hi> to be full of <hi>Myſteries of State,</hi> and its Priviledge to fall <hi>foul</hi> on any Body. How many hundreds have been <hi>Libell'd</hi> that way? Nay, Per<g ref="char:EOLhyphen"/>ſons of <hi>highest Honour and Office</hi> have ſcarce eſcap'd him of late. Suppoſe I have a mind to a good warm Place of <hi>Credit and Profit,</hi> (and for ſuch Dain<g ref="char:EOLhyphen"/>ties <hi>Old Men</hi> may <hi>Long,</hi> as well as <hi>Young Women</hi>) what have I to do, but Print an <hi>Obſervator,</hi> up<g ref="char:EOLhyphen"/>braid the <hi>Government</hi> with my <hi>Services</hi> and Diſap<g ref="char:EOLhyphen"/>pointments, acquaint the World what <hi>Preferments</hi> I would be at, and put my <hi>Superiours</hi> roundly in mind on't; As much as to ſay, <hi>Sirs! You are un<g ref="char:EOLhyphen"/>grateful, and neither underſtand your own Interest, nor my Merits.</hi> Then ſuppoſe I receive a <hi>Rub</hi> from ſome Perſons of Quality that don't think me worthy; Straight I at 'em with another <hi>Obſerva<g ref="char:EOLhyphen"/>tor,</hi>
+                  <pb n="3" facs="tcp:96196:2"/>and Expoſe 'em as <hi>Trimmers</hi> and <hi>Betrayers</hi> of the Government; and ſo Revenge my ſelf, that no body for the future ſhall dare <hi>Oppoſe</hi> my Pre<g ref="char:EOLhyphen"/>tenſions.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>A clever Courſe! But methinks ſome<g ref="char:EOLhyphen"/>what <hi>ſawcy;</hi> and he that practiſes it deſerves no other Advancement but to the Pillory or Whip<g ref="char:EOLhyphen"/>ping-Poſt. However, ſince there's an Old Pro<g ref="char:EOLhyphen"/>verb—<hi>That One may better ſteal a Steed, than Another peep over the Hedge;</hi> I know not whether <hi>every Obſervator</hi> may be allow'd the like Preroga<g ref="char:EOLhyphen"/>tive: Therefore ſtill I ſay I'll not meddle with <hi>Edg-Tools.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>What then ſhall we talk of nothing at all?</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>No, but of ſomething <hi>next to Nothing,</hi> that is, the <hi>Ovſervator</hi> Himſelf: I go ſometimes to <hi>SAM</hi>'s, where People cry him up as the <hi>Atlas</hi> of the <hi>Church,</hi> the <hi>Argus</hi> of the <hi>State,</hi> the very <hi>Buckle-and-Thong</hi> of <hi>Loyalty:</hi> And you ſee how he vapours of his Forty Years Service to the Crown: Therefore I would gladly be inform'd what Migh<g ref="char:EOLhyphen"/>ty Exploits he perform'd during the Old Rebellion, what Commands he had, how many. Thouſand Pounds he expended, what Scars of Honour he received.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>You muſt note, The Gentleman was a <hi>Younger Brother,</hi> (the Scandal of a worthy Family, who have long been aſham'd of him) and ſo far from being able to Contribute to the Royal Cauſe, that during his Youth, <hi>Phill. Porter</hi>'s <hi>Plow</hi> was his beſt Maintenance; and 'tis obſerv'd, That he
+<pb n="4" facs="tcp:96196:3"/>liv'd more ſplendidly under the <hi>
+                     <g ref="char:V">Ʋ</g>ſurper,</hi> than ever before or ſince: Whence ſome have thought, that the ſame Wind which hurried Old <hi>Noll</hi> to Old <hi>Nick,</hi> might alſo puff away this Gallant's Coach and Horſes: For though he kept ſuch an Equi<g ref="char:EOLhyphen"/>page before, they were never afterwards viſible.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>This is nothing to his Perſonal Gallan<g ref="char:EOLhyphen"/>try; Perhaps he Reſcu'd the Standard at <hi>Edg-hill,</hi> ſtorm'd Towns (as Mountebanks draw Teeth) with a Touch, or Routed whole Armies of the Rebels, like <hi>Almanzor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>No, no; <hi>Valour</hi> is none of his Tallent: He has more <hi>Wit</hi> then to hazard his <hi>Precious Per<g ref="char:EOLhyphen"/>ſon</hi> with any <hi>Gun</hi> but <hi>Joan</hi>'s; wiſely conſidering, that if a man happen to be <hi>Spitted through the Lungs,</hi> or have his <hi>Brains</hi> dull'd with a <hi>Lump of Lead,</hi> 'twould go near to ſpoil his writing of <hi>Ob<g ref="char:EOLhyphen"/>ſervators for ever,</hi> and then what would become of the <hi>Government?</hi> He marches, indeed, equipp'd with a <hi>Sword,</hi> but 'tis onely for Ornament: for he has not ſo much Courage as a <hi>Guinney-Pig;</hi> a Boy of Fourteen may at any time <hi>diſ-arm</hi> him with a <hi>Bean-Stalk.</hi> Did you never hear how Captain C. of <hi>Richmond <hi>Obſervator'd</hi>
+                  </hi> him? Or how the Life-Guard-Man wrought a Miracle, and (for a moment) made him honeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>Of the firſt I have had ſome inkling; he had Libell'd ſome of the Captains Relations, who thereupon gave him the Diſcipline of the <hi>Battoon,</hi> and made him <hi>Dance</hi> without his <hi>Fiddle;</hi> which he receiv'd as became a Philoſopher: And 'tis the beſt Argument he has to prove him a <hi>Chri<g ref="char:EOLhyphen"/>stian,</hi>
+                  <pb n="5" facs="tcp:96196:3"/>becauſe <hi>Preces &amp; Lachrymae</hi> were all his De<g ref="char:EOLhyphen"/>fence. — But for the Adventure of the Liſeguard<g ref="char:EOLhyphen"/>man, I am in the dark.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>The Buſineſs was thus, — About the year 1677. One <hi>Cole</hi> having a Sheet againſt Popery, call'd, <hi>A Rod for Rome,</hi> (or ſome ſuch like Title) bearing hard upon the Jeſuites, ſent it up for a Paſs-Port, Mr. <hi>Obſerver</hi> refuſed it, (as he gene<g ref="char:EOLhyphen"/>rally did things of that Nature) yet could give no reaſon; (For he was not ſo Ungenteel as to boaſt the Kindneſſes he did the <hi>Romans.</hi>) Thus it lay by, till after the Diſcovery of <hi>the Plot,</hi> when the Old man ſent it again by Mrs. <hi>Purſlow</hi> a Printer: who having made 40 Jaunts in vain, at laſt ſent: her Maid for his Poſitive Anſwer, but ſhe not being ſo much in his Favour as <hi>the Laſs</hi> (once) in <hi>Duck-lane,</hi> (to whom he never denyed any thing,) he return'd it, ſwearing moſt <hi>Bloodily</hi> that he would not <hi>Allow it;</hi> As the Wench came forth, who ſhould ſhe meet with but a Gentleman of the Guard, her Acquaintance; who underſtanding what ſhe had been about, read the Copy, goes back with her, and as ſoon as he came into the room, diſplaying the Paper by one corner, as an <hi>Enſign of War,</hi> begins—<hi>D—me, do you deny ſuch an Honeſt Thing againſt the Papiſts, ha?</hi> The <hi>Obſervator</hi> was juſt ready to <hi>Atkinize</hi> his Breeches, and with a thouſand French Cringes and Grimaces, Cries—<hi>Good Sir! Noble Sir! As I'm a Gentleman, I never refus'd it, only the Maid importu<g ref="char:EOLhyphen"/>ned me when I was buſy,</hi>—and preſently <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcrawl'd</hi> the Paper with his <hi>Licentious Fiſt;</hi> The Wench was fumbling for the <hi>Half-Crown,</hi> but her friend
+<pb n="6" facs="tcp:96196:4"/>pluckt her away abruptly, and our Obſervator was glad he was ſo well rid of him, though with the loſs of <hi>his Fee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>But ſtill where are the Inſtances of his Atchievments for <hi>Charles the Martyr?</hi> He boaſts in twenty of his Pamphlets, how near he was to the Honour of the <hi>Gallows;</hi> What was he to be <hi>Hang'd</hi> like <hi>Mum-Chance,</hi> for doing nothing?</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>No, but for doing nothing to the purpoſe. Did you never ſee a little <hi>Hocus</hi> by ſlight of hand popping a piece ſeveral times, firſt out of one Pock<g ref="char:EOLhyphen"/>et, and then another, perſwade Folks he was dam<g ref="char:EOLhyphen"/>nable full of money, when one poor <hi>Sice</hi> was all his Stock: Juſt ſo the Iliads of our Obſervators Loyalty, when Examin'd, dwindle into one ſin<g ref="char:EOLhyphen"/>gle, ſorry, ill-manag'd Intrigue at <hi>Lynn.</hi> Which was nakedly thus.</p>
+               <p>About <hi>Novemb.</hi> 44. The Town of <hi>Lynn</hi> being in the Rebels hands, <hi>the Gentleman you wot on,</hi> pre<g ref="char:EOLhyphen"/>tending abundance of Intereſt there, when indeed he had none at all, procured a Commiſſion from His Majeſty to Reduce it, graciouſly promiſing him the <hi>government</hi> of the Town, if he could effect it, and payment of all Rewards he ſhould promiſe, not exceeding 5000<abbr>
+                     <hi>l.</hi>
+                  </abbr> &amp;c. <hi>The Hair-brain'd <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>dertaker</hi> could think of no other way to Reduce it, but by ſending for one Captain <hi>Leamon</hi> of <hi>Lynn,</hi> (one that had taken the <hi>Covenant,</hi> and a known Zealot for the Rebels Cauſe) to a Papiſts Houſe two or three miles off, and very diſcreetly blun<g ref="char:EOLhyphen"/>ders out the Buſineſs; ſhews him his Commiſſion, promiſes him 1000<abbr>
+                     <hi>l.</hi>
+                  </abbr> and other preferments if he
+<pb n="7" facs="tcp:96196:4"/>would betray the Town, adding, That the King <hi>did value the ſurprizing that Town as half his Crown.</hi> [A very likely Tale!] <hi>Leamon</hi> perceiving what a weak Tool he had to deal with, ſeems to comply, but the ſame night acquaints the Governour, Col<g ref="char:EOLhyphen"/>lonel <hi>Walton,</hi> and (according to promiſe) meets our Skulking Town-taker next day, but carried with him a Corporal in <hi>Seamans Habit;</hi> To whom he alſo very frankly ſhewed his <hi>Commiſſion.</hi> In the mean time, Lieutenant <hi>Stubbing,</hi> and five Soul<g ref="char:EOLhyphen"/>diers habited like Seamen, came from <hi>Lynn</hi> to the houſe, and then the diſguis'd <hi>Corporal</hi> ſeizes our <hi>Gallant <g ref="char:V">Ʋ</g>ndertaker,</hi> who tamely ſurrenders both <hi>his Perſon and Commiſſion;</hi> and ſo being brought to <hi>London,</hi> it being proved at a <hi>Court Martial</hi> at <hi>Guild-Hall,</hi> and by himſelf Confeſſed, That he came into the Parliaments Quarters not in an ho<g ref="char:EOLhyphen"/>ſtile manner as a Souldier, but without <hi>Drum, Trum<g ref="char:EOLhyphen"/>pet,</hi> or <hi>Paſs,</hi> as a <hi>Spye,</hi> and had tampered with their <hi>Officers</hi> to betray the Gariſon, he was for the ſame Sentenced to be Hanged, <hi>Decemb.</hi> 28.44, and paſ<g ref="char:EOLhyphen"/>ſing from the Court through the Croud, uttered theſe Heroick words—<hi>I deſire all people would take warning by me, that there may be no more Blood ſhed in this kind.</hi> However by Appealing to the <hi>Lords</hi> he ſhuffled off preſent Exeeution, and having lain ſome time in <hi>Newgate,</hi> obtaind his Liberty; but upon what <hi>valluable Conſiderations,</hi> muſt remain a <hi>Riddle,</hi> unleſs his after <hi>Familiarity with Cromwel,</hi> and the un<g ref="char:EOLhyphen"/>accountable <hi>Port</hi> that he afterwards lived in, during thoſe times, help to explain it.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>The <hi>Total</hi> of the Account then ſtands
+<pb n="8" facs="tcp:96196:5"/>thus,—1. That the Gentleman abuſed the <hi>good King</hi> with <hi>a falſe Story;</hi> It ſeems he thought it as eaſy a matter to <hi>Surprize</hi> a Town, as to over-run the <hi>Printers Wife;</hi> but was ſhamefully defeated in both. 2. He manag'd the Affair like a <hi>raſh Cox<g ref="char:EOLhyphen"/>comb,</hi> and was out-witted by a dull heavy Round<g ref="char:EOLhyphen"/>head. 3. Had it ſucceeded, though acknowledg'd <hi>Justiſiable,</hi> (ſuch practiſes being often uſed in Wars, much more in the Caſe of <hi>Rebels,</hi> where the ſeem<g ref="char:EOLhyphen"/>ing Treachery is but <hi>Duty</hi>) yet there is little of <hi>Glory</hi> to be derived from ſuch a pitiful Tampering Imploy, only it ſeems he was not judg'd Capable of any more <hi>Brave</hi> and <hi>Honourable,</hi> and therefore muſt make his moſt of this. 4. When he was in Danger of the Nooze, he Repented even of this his Loyal undertaking, and <hi>Sneak'd</hi> moſt pitifully, and at laſt got off <hi>Suſpiciouſly.</hi>—So much for his Old Services. Now let's hear of his Exploits ſince the Reſtauration.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>—No ſooner was that <hi>Bliſsful Change,</hi> but our <hi>Obſervator</hi> firſt endeavour'd to ſet the old Ca<g ref="char:EOLhyphen"/>valiers at Variance, and wrot againſt that faithful Servant to the Crown, the Learned and Loyal Mr. <hi>James Howel,</hi> and as far as he durſt ſnarl'd at the Court and Chief Miniſters for not preferring him<g ref="char:EOLhyphen"/>ſelf (forſooth) as well as others. And to be taken notice of, In Defiance to the <hi>Act of Indempnity,</hi> and of his Majeſties moſt excellent <hi>Declaration touching Eccleſiaſtick Affairs,</hi> (A Soveraign Balm that was like to heal all our Wounds, and Mortify for ever the Deſigns of <hi>Rome</hi>) he began to ripp up old Sores, and blow the Coals of Diviſion amongſt
+<pb n="9" facs="tcp:96196:5"/>Proteſtants under pretence of Expoſing the Preſ<g ref="char:EOLhyphen"/>byterians; yet ſtill the Devil of Self-Intereſt Jog<g ref="char:EOLhyphen"/>ged his Elbow: for the man is known, who being newly come from <hi>Lambeth,</hi> and having received onely Thanks and Benedictions inſtead of money, ſwore—<hi>Damme! Let the B—s, henceforwards write for themſelves.</hi> After this, diſpairiug of high<g ref="char:EOLhyphen"/>er place, he aims at the ſuperviſal of the Preſs (for which his ſcribbling humour had ſomewhat adap<g ref="char:EOLhyphen"/>ted him) then gives the Government perpetual (falſe) Alarms on that ſide; but having once gain'd the Point, ſoon learnt the faculty to wink as oft as his Spectacles were Inchanted with the duſt of <hi>Peru.</hi> How that Affair was managed, Let the Bookſellers Guinies near <hi>Mercers-Chappel,</hi> The Books ſeized, afterwards privately ſold from <hi>Cam<g ref="char:EOLhyphen"/>bray</hi>-houſe, to be Publiſht, <hi>&amp;c.</hi> be Inſtances; but eſpecially the known Story of the Printers VVife (before mentioned) in <hi>Bartholomew-Cloſe,</hi> to whom he proſtituted the Intereſt of Church and State, offering to connive at her Husband's Printing Trea<g ref="char:EOLhyphen"/>ſon, Sedition, Hereſy, Schiſm, any thing, if ſhe would but gratify his bruitiſh Luſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>But ſtill he was <hi>tight</hi> to the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <p>Of his Zeal therein, there are theſe unde<g ref="char:EOLhyphen"/>niable Teſtimonies.</p>
+               <p n="1">1. His having been forty times at Maſs by his own Confeſſion in Print.</p>
+               <p n="2">2. His not Receiving the Sacrament, or ſo much as coming to his Pariſh-Church 12 long years and upwards.</p>
+               <pb n="10" facs="tcp:96196:6"/>
+               <p n="3">3. His approving Books deſtructive <hi>to all Chri<g ref="char:EOLhyphen"/>ſtianity,</hi> As one Intituled, <hi>Anima mundi,</hi> burnt af<g ref="char:EOLhyphen"/>terwards (with his hand to it) by order (if I mi<g ref="char:EOLhyphen"/>ſtake not) of the Reverend Biſhop of <hi>London:</hi> A<g ref="char:EOLhyphen"/>nother called—A <hi>Treatiſe of Humane Reaſon,</hi> that deſerved the ſame Fate, as making every mans <hi>private Fancy</hi> Judge of Religion, the grand <hi>Scandal</hi> which Papiſts have theſe 100 years <hi>falſly</hi> caſt on Proteſtantiſm.</p>
+               <p n="4">4 By Connivance at <hi>Popiſh Pamphlets</hi> all the time of his <hi>Dictatorſhip;</hi> Not one having been during thoſe many years honeſtly Proſecuted by him, though 'tis computed above 100 thouſand of them were in that ſpace diſperſed, to poiſon His Majeſties Proteſtant Subjects; Nay on the contrary, as often as that <hi>Active Loyal</hi> Gentleman, Mr. <hi>M.</hi> of the Company of <hi>Stationers,</hi> or any other of the Maſters or Wardens, or Mr. <hi>Stephens, Meſſenger of the Preſs,</hi> had diſcovered any of the Papiſts <hi>Pamphlet-Magazines,</hi> this <hi>Obſervator</hi> either by ſecret Intelli<g ref="char:EOLhyphen"/>gence prevented the <hi>Seizure,</hi> or afterwards <hi>ſhuffled off</hi> both <hi>Book,</hi> and <hi>Proſecution,</hi> pretending the ſame appertain'd to his immediate care, and ſo no more was heard on't.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>But all the Loyal-world commends his Obſervators as witty and highly <hi>ſerviccable</hi> to the Goverment.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>As to the <hi>Wit,</hi> (no great praiſe in a Blade of threeſcore and twelve) 'tis the Obſervation of Judicious <hi>Raleigh, Nihil eſt Sapientiae Odioſus A<g ref="char:EOLhyphen"/>cumine Nimio, Nothing is more an Enemy to Wiſdom than Drollery and Over-ſharpneſs of Conceit;</hi> Hot<g ref="char:EOLhyphen"/>headed
+<pb n="11" facs="tcp:96196:6"/>Youths, Unthinking ſhallow People, are ea<g ref="char:EOLhyphen"/>ſily taken, (as Larks are by Low-Bells) with a <hi>Gin<g ref="char:EOLhyphen"/>gle</hi> of words; and perhaps ſome <hi>She-Politicians</hi> may admire him; But the Graver and more Con<g ref="char:EOLhyphen"/>ſiderate Loyaliſts judge no Papers have really been more Prejudicial to his Majeſties Intereſt; His de<g ref="char:EOLhyphen"/>ſign therein is Evident, The <hi>Act</hi> that formerly gave him <hi>Bread,</hi> being Expired, ſomething muſt be done for a <hi>Lively-hood;</hi> His <hi>Acquaintance,</hi> his <hi>In<g ref="char:EOLhyphen"/>tereſt,</hi> lay on the <hi>Red-Letter'd Side:</hi> who quickly Engage him to Ridicule that <hi>Plot</hi> which his Ma<g ref="char:EOLhyphen"/>jeſty and four ſeveral Parliaments, (after ſtricteſt In<g ref="char:EOLhyphen"/>quiſition) had declar'd <hi>Horrid</hi> and <hi>Damnable;</hi> Hence ſtarted up the <hi>Braſs Screws,</hi> the <hi>Salamanca Certifi<g ref="char:EOLhyphen"/>cate,</hi> and twenty other <hi>Crotchets,</hi> which neither <hi>Secretary Caſtlemain,</hi> nor <hi>Sing,</hi> nor any of their St. <hi>Omers Pupils</hi> had the luck to think of, and yet al<g ref="char:EOLhyphen"/>together as empty, Incoherent, and Nonſenſical as their <hi>Oaths</hi> and Allegations; But his feeders ſtill not thinking this enough, have of late put him up<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n another <hi>Jobb;</hi> To expoſe not only <hi>Fanaticks</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Whiggs,</hi> but all <hi>Sober Church-men</hi> and Moderate Loyal Proteſtant Subjects under the fooliſh, but odious Name of <hi>Trimmers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>—But ſtill he avows he writes for the Government.</p>
+            </sp>
+            <sp>
+               <speaker>Nobbs.</speaker>
+               <p>Nothing more falſe; he writes only for his <hi>Belly;</hi> 'Tis the <hi>Cruſt</hi> not the <hi>Cauſe</hi> he leaps at; As long as he Scribbles with ſuch Provocations, tis impoſſible to ſtop the other Pamphleteers; <hi>Nay</hi> he has done <hi>The Faction</hi> the greateſt Service of any man living; being the <hi>General Publiſher</hi> of their
+<pb n="12" facs="tcp:96196:7"/>Clandeſtine Pamphlets, and ſets People agog to inquire after, and <hi>buy</hi> them; That Lewd Impu<g ref="char:EOLhyphen"/>dent and Traiterous Libel, <hi>The Second part of the Growth of Popery and Arbitrary Government,</hi> ſcarce ſaw the Light, before he proclaimed and repealed it; And if <hi>Hunts</hi> ſawcy Book have Sold 10000, He is beholden at leaſt for putting off 8000 of them, to the <hi>Obſervator.</hi> Some affirm, that for this (Se<g ref="char:EOLhyphen"/>cret) <hi>Service</hi> he has a <hi>Penſion</hi> from the <hi>Whiggs,</hi> e<g ref="char:EOLhyphen"/>qual to his Preſents from the <hi>Tories;</hi> but tis cer<g ref="char:EOLhyphen"/>tain when any body Prints an <hi>obnoxious Pamphlet,</hi> they firſt ſend it to him by the <hi>Penny-Post,</hi> to ſave 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> Charge of putting it in the <hi>Gazet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>—I could not before gueſs at the Reaſon why he has of late expreſs'd ſo much Malice againſt the honeſt Meſſenger of the Preſs, that according to his <hi>Duty</hi> faithfully and <hi>Impartially</hi> diſcharg'd his Office towards ſuppreſſing all Pamphlets, both <hi>Pha<g ref="char:EOLhyphen"/>natical</hi> and Popiſh; But if this Gentleman gets <hi>Friends</hi> by the <hi>one,</hi> and money by the <hi>other;</hi> t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wonder, if he have a ſpight at every body t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> would Damm up <hi>both</hi> his <hi>Mills</hi> at once—But it grows late, and I am to meet a Friend at <hi>Sam</hi>'s, ſo <hi>Farewel</hi> till I ſee you next.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> W. Hammond. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
